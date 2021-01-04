@@ -1,0 +1,56 @@
+{
+  "Id": "4ff7dd90-6f2a-481a-aed1-3169401119de",
+  "Status": "OK",
+  "ProviderName": "TestApp",
+  "DateTimeUTC": "\/Date(1609760298140)\/",
+  "Items": [
+    {
+      "ItemID": "924435ef-0586-45ca-beae-1b23b431d940",
+      "Code": "1",
+      "Description": "Carpet",
+      "UpdatedDateUTC": "\/Date(1609142593233+0000)\/",
+      "PurchaseDetails": {},
+      "SalesDetails": {
+        "UnitPrice": 15000.0000,
+        "AccountCode": "200",
+        "TaxType": "OUTPUT"
+      },
+      "Name": "Carpet",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": false
+    },
+    {
+      "ItemID": "9ca029d8-b2bb-4168-849a-8636cc0c5345",
+      "Code": "2",
+      "Description": "Red Carpwt",
+      "UpdatedDateUTC": "\/Date(1609143566113+0000)\/",
+      "PurchaseDetails": {},
+      "SalesDetails": {
+        "UnitPrice": 2000.0000,
+        "AccountCode": "200",
+        "TaxType": "OUTPUT"
+      },
+      "Name": "Red Carpwt",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": false
+    },
+    {
+      "ItemID": "cc9567e8-1a41-4ab6-a07f-2538a4d8d2a4",
+      "Code": "3",
+      "Description": "Blue Carpet",
+      "UpdatedDateUTC": "\/Date(1609153977073+0000)\/",
+      "PurchaseDetails": {},
+      "SalesDetails": {
+        "UnitPrice": 17599.0000,
+        "AccountCode": "200",
+        "TaxType": "OUTPUT"
+      },
+      "Name": "Blue Carpet",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": false
+    }
+  ]
+}

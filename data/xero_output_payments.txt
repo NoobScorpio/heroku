@@ -1,0 +1,466 @@
+{
+  "Id": "efbb774e-fabc-43ae-aaaa-b2760c4a52d5",
+  "Status": "OK",
+  "ProviderName": "TestApp",
+  "DateTimeUTC": "\/Date(1609760301921)\/",
+  "Payments": [
+    {
+      "PaymentID": "1883c330-a06a-4a11-aba8-e88e195621c1",
+      "Date": "\/Date(1606435200000+0000)\/",
+      "BankAmount": 765000.00,
+      "Amount": 765000.00,
+      "CurrencyRate": 1.000000,
+      "PaymentType": "ACCRECPAYMENT",
+      "Status": "AUTHORISED",
+      "UpdatedDateUTC": "\/Date(1609142639193+0000)\/",
+      "HasAccount": true,
+      "IsReconciled": false,
+      "Account": {
+        "AccountID": "84aabd0f-3ac2-405f-8c2c-2af960869b9a",
+        "Code": "970"
+      },
+      "Invoice": {
+        "Type": "ACCREC",
+        "InvoiceID": "9d079311-d185-43d0-b427-6a211c947a32",
+        "InvoiceNumber": "INV-0001",
+        "Payments": [],
+        "CreditNotes": [],
+        "Prepayments": [],
+        "Overpayments": [],
+        "IsDiscounted": false,
+        "HasErrors": false,
+        "Contact": {
+          "ContactID": "ec9be4c6-54d1-4c17-b64d-e1e32651a863",
+          "Name": "Ali",
+          "Addresses": [],
+          "Phones": [],
+          "ContactGroups": [],
+          "ContactPersons": [],
+          "HasValidationErrors": false
+        },
+        "LineItems": [],
+        "CurrencyCode": "PKR"
+      },
+      "HasValidationErrors": false
+    },
+    {
+      "PaymentID": "c971ac74-6ea5-49a2-b0b1-304d38af9a18",
+      "Date": "\/Date(1606521600000+0000)\/",
+      "BankAmount": 16500000.00,
+      "Amount": 16500000.00,
+      "CurrencyRate": 1.000000,
+      "PaymentType": "ACCRECPAYMENT",
+      "Status": "AUTHORISED",
+      "UpdatedDateUTC": "\/Date(1609142747557+0000)\/",
+      "HasAccount": true,
+      "IsReconciled": false,
+      "Account": {
+        "AccountID": "76b1cbac-7b5e-45db-b69c-8ba8fe77f5fa"
+      },
+      "Invoice": {
+        "Type": "ACCREC",
+        "InvoiceID": "1fb6c656-6634-401e-9ef5-fa8bc9f829b9",
+        "InvoiceNumber": "INV-0002",
+        "Payments": [],
+        "CreditNotes": [],
+        "Prepayments": [],
+        "Overpayments": [],
+        "IsDiscounted": false,
+        "HasErrors": false,
+        "Contact": {
+          "ContactID": "ec9be4c6-54d1-4c17-b64d-e1e32651a863",
+          "Name": "Ali",
+          "Addresses": [],
+          "Phones": [],
+          "ContactGroups": [],
+          "ContactPersons": [],
+          "HasValidationErrors": false
+        },
+        "LineItems": [],
+        "CurrencyCode": "PKR"
+      },
+      "HasValidationErrors": false
+    },
+    {
+      "PaymentID": "e777428f-394a-4867-ace7-8815edfa5c91",
+      "Date": "\/Date(1609113600000+0000)\/",
+      "BankAmount": 2000000.00,
+      "Amount": 2000000.00,
+      "CurrencyRate": 1.000000,
+      "PaymentType": "ACCRECPAYMENT",
+      "Status": "AUTHORISED",
+      "UpdatedDateUTC": "\/Date(1609143584210+0000)\/",
+      "HasAccount": true,
+      "IsReconciled": false,
+      "Account": {
+        "AccountID": "76b1cbac-7b5e-45db-b69c-8ba8fe77f5fa"
+      },
+      "Invoice": {
+        "Type": "ACCREC",
+        "InvoiceID": "a96c236e-de32-40e4-955a-57b7fc7c0187",
+        "InvoiceNumber": "INV-0003",
+        "Payments": [],
+        "CreditNotes": [],
+        "Prepayments": [],
+        "Overpayments": [],
+        "IsDiscounted": false,
+        "HasErrors": false,
+        "Contact": {
+          "ContactID": "c0559e36-3f10-4b77-beb5-b6da6cf37d5c",
+          "Name": "waleed",
+          "Addresses": [],
+          "Phones": [],
+          "ContactGroups": [],
+          "ContactPersons": [],
+          "HasValidationErrors": false
+        },
+        "LineItems": [],
+        "CurrencyCode": "PKR"
+      },
+      "HasValidationErrors": false
+    },
+    {
+      "PaymentID": "7fd8bb0d-4042-4e03-83cd-b6fb0e262c55",
+      "Date": "\/Date(1609027200000+0000)\/",
+      "BankAmount": 2000000000.00,
+      "Amount": 2000000000.00,
+      "CurrencyRate": 1.000000,
+      "PaymentType": "ACCRECPAYMENT",
+      "Status": "AUTHORISED",
+      "UpdatedDateUTC": "\/Date(1609150660157+0000)\/",
+      "HasAccount": true,
+      "IsReconciled": false,
+      "Account": {
+        "AccountID": "76b1cbac-7b5e-45db-b69c-8ba8fe77f5fa"
+      },
+      "Invoice": {
+        "Type": "ACCREC",
+        "InvoiceID": "8c0e9f71-0fea-4c2d-8847-8abaaaa97d24",
+        "InvoiceNumber": "INV-0004",
+        "Payments": [],
+        "CreditNotes": [],
+        "Prepayments": [],
+        "Overpayments": [],
+        "IsDiscounted": false,
+        "HasErrors": false,
+        "Contact": {
+          "ContactID": "c0559e36-3f10-4b77-beb5-b6da6cf37d5c",
+          "Name": "waleed",
+          "Addresses": [],
+          "Phones": [],
+          "ContactGroups": [],
+          "ContactPersons": [],
+          "HasValidationErrors": false
+        },
+        "LineItems": [],
+        "CurrencyCode": "PKR"
+      },
+      "HasValidationErrors": false
+    },
+    {
+      "PaymentID": "9ba7ed0a-00b4-46a8-838c-c0580a67bdf8",
+      "Date": "\/Date(1607990400000+0000)\/",
+      "BankAmount": 491370000.00,
+      "Amount": 491370000.00,
+      "CurrencyRate": 1.000000,
+      "PaymentType": "ACCRECPAYMENT",
+      "Status": "AUTHORISED",
+      "UpdatedDateUTC": "\/Date(1609153276713+0000)\/",
+      "HasAccount": true,
+      "IsReconciled": false,
+      "Account": {
+        "AccountID": "76b1cbac-7b5e-45db-b69c-8ba8fe77f5fa"
+      },
+      "Invoice": {
+        "Type": "ACCREC",
+        "InvoiceID": "d3d84ce1-9187-40e7-ab75-52e73c4067fb",
+        "InvoiceNumber": "INV-0005",
+        "Payments": [],
+        "CreditNotes": [],
+        "Prepayments": [],
+        "Overpayments": [],
+        "IsDiscounted": false,
+        "HasErrors": false,
+        "Contact": {
+          "ContactID": "ec9be4c6-54d1-4c17-b64d-e1e32651a863",
+          "Name": "Ali",
+          "Addresses": [],
+          "Phones": [],
+          "ContactGroups": [],
+          "ContactPersons": [],
+          "HasValidationErrors": false
+        },
+        "LineItems": [],
+        "CurrencyCode": "PKR"
+      },
+      "HasValidationErrors": false
+    },
+    {
+      "PaymentID": "bf52ac2e-8505-427c-83bc-57e9bad748e5",
+      "Date": "\/Date(1603238400000+0000)\/",
+      "BankAmount": 8799500.00,
+      "Amount": 8799500.00,
+      "CurrencyRate": 1.000000,
+      "PaymentType": "ACCRECPAYMENT",
+      "Status": "AUTHORISED",
+      "UpdatedDateUTC": "\/Date(1609153999823+0000)\/",
+      "HasAccount": true,
+      "IsReconciled": false,
+      "Account": {
+        "AccountID": "76b1cbac-7b5e-45db-b69c-8ba8fe77f5fa"
+      },
+      "Invoice": {
+        "Type": "ACCREC",
+        "InvoiceID": "333a92ef-3bc5-46f9-964b-b7547cd327fd",
+        "InvoiceNumber": "INV-0006",
+        "Payments": [],
+        "CreditNotes": [],
+        "Prepayments": [],
+        "Overpayments": [],
+        "IsDiscounted": false,
+        "HasErrors": false,
+        "Contact": {
+          "ContactID": "c0559e36-3f10-4b77-beb5-b6da6cf37d5c",
+          "Name": "waleed",
+          "Addresses": [],
+          "Phones": [],
+          "ContactGroups": [],
+          "ContactPersons": [],
+          "HasValidationErrors": false
+        },
+        "LineItems": [],
+        "CurrencyCode": "PKR"
+      },
+      "HasValidationErrors": false
+    },
+    {
+      "PaymentID": "0f6673b8-b0d9-451a-8ed8-086a3d063525",
+      "Date": "\/Date(1605312000000+0000)\/",
+      "BankAmount": 17599000.00,
+      "Amount": 17599000.00,
+      "CurrencyRate": 1.000000,
+      "PaymentType": "ACCRECPAYMENT",
+      "Status": "AUTHORISED",
+      "UpdatedDateUTC": "\/Date(1609157124813+0000)\/",
+      "HasAccount": true,
+      "IsReconciled": false,
+      "Account": {
+        "AccountID": "76b1cbac-7b5e-45db-b69c-8ba8fe77f5fa"
+      },
+      "Invoice": {
+        "Type": "ACCREC",
+        "InvoiceID": "4f65d037-2b24-4269-adb2-98b34007be2c",
+        "InvoiceNumber": "INV-0007",
+        "Payments": [],
+        "CreditNotes": [],
+        "Prepayments": [],
+        "Overpayments": [],
+        "IsDiscounted": false,
+        "HasErrors": false,
+        "Contact": {
+          "ContactID": "41464631-2702-4125-9aae-d2964487708d",
+          "Name": "Taqi",
+          "Addresses": [],
+          "Phones": [],
+          "ContactGroups": [],
+          "ContactPersons": [],
+          "HasValidationErrors": false
+        },
+        "LineItems": [],
+        "CurrencyCode": "PKR"
+      },
+      "HasValidationErrors": false
+    },
+    {
+      "PaymentID": "6e89f07f-3bce-4d51-887f-ad6a0e37b5a4",
+      "Date": "\/Date(1609113600000+0000)\/",
+      "BankAmount": 432689014.00,
+      "Amount": 432689014.00,
+      "CurrencyRate": 1.000000,
+      "PaymentType": "ACCRECPAYMENT",
+      "Status": "AUTHORISED",
+      "UpdatedDateUTC": "\/Date(1609159001907+0000)\/",
+      "HasAccount": true,
+      "IsReconciled": false,
+      "Account": {
+        "AccountID": "76b1cbac-7b5e-45db-b69c-8ba8fe77f5fa"
+      },
+      "Invoice": {
+        "Type": "ACCREC",
+        "InvoiceID": "c074b765-e9b1-4851-9dfd-43c97432670b",
+        "InvoiceNumber": "INV-0008",
+        "Payments": [],
+        "CreditNotes": [],
+        "Prepayments": [],
+        "Overpayments": [],
+        "IsDiscounted": false,
+        "HasErrors": false,
+        "Contact": {
+          "ContactID": "0fea7fb5-460f-46ad-93e4-404864565b5b",
+          "Name": "bilal",
+          "Addresses": [],
+          "Phones": [],
+          "ContactGroups": [],
+          "ContactPersons": [],
+          "HasValidationErrors": false
+        },
+        "LineItems": [],
+        "CurrencyCode": "PKR"
+      },
+      "HasValidationErrors": false
+    },
+    {
+      "PaymentID": "781321a1-962a-426e-9eaf-5fb232ad383e",
+      "Date": "\/Date(1597881600000+0000)\/",
+      "BankAmount": 175972401.00,
+      "Amount": 175972401.00,
+      "CurrencyRate": 1.000000,
+      "PaymentType": "ACCRECPAYMENT",
+      "Status": "AUTHORISED",
+      "UpdatedDateUTC": "\/Date(1609159255497+0000)\/",
+      "HasAccount": true,
+      "IsReconciled": false,
+      "Account": {
+        "AccountID": "76b1cbac-7b5e-45db-b69c-8ba8fe77f5fa"
+      },
+      "Invoice": {
+        "Type": "ACCREC",
+        "InvoiceID": "1f8bfaf6-b99c-4620-a3fa-95afc9272d1c",
+        "InvoiceNumber": "INV-0009",
+        "Payments": [],
+        "CreditNotes": [],
+        "Prepayments": [],
+        "Overpayments": [],
+        "IsDiscounted": false,
+        "HasErrors": false,
+        "Contact": {
+          "ContactID": "e9a17abc-f034-42dd-8e16-3f9632377c21",
+          "Name": "Wafi",
+          "Addresses": [],
+          "Phones": [],
+          "ContactGroups": [],
+          "ContactPersons": [],
+          "HasValidationErrors": false
+        },
+        "LineItems": [],
+        "CurrencyCode": "PKR"
+      },
+      "HasValidationErrors": false
+    },
+    {
+      "PaymentID": "a42dd0a5-ec49-4f40-81ef-f66edb0916e5",
+      "Date": "\/Date(1609113600000+0000)\/",
+      "BankAmount": 6000000.00,
+      "Amount": 6000000.00,
+      "CurrencyRate": 1.000000,
+      "PaymentType": "ACCRECPAYMENT",
+      "Status": "AUTHORISED",
+      "UpdatedDateUTC": "\/Date(1609183093457+0000)\/",
+      "HasAccount": true,
+      "IsReconciled": false,
+      "Account": {
+        "AccountID": "aa6f6051-1db3-406e-8484-504706dc3e40",
+        "Code": "881"
+      },
+      "Invoice": {
+        "Type": "ACCREC",
+        "InvoiceID": "53f0ed88-c084-4f29-91d3-58db0af17375",
+        "InvoiceNumber": "INV-0010",
+        "Payments": [],
+        "CreditNotes": [],
+        "Prepayments": [],
+        "Overpayments": [],
+        "IsDiscounted": false,
+        "HasErrors": false,
+        "Contact": {
+          "ContactID": "e9a17abc-f034-42dd-8e16-3f9632377c21",
+          "Name": "Wafi",
+          "Addresses": [],
+          "Phones": [],
+          "ContactGroups": [],
+          "ContactPersons": [],
+          "HasValidationErrors": false
+        },
+        "LineItems": [],
+        "CurrencyCode": "PKR"
+      },
+      "HasValidationErrors": false
+    },
+    {
+      "PaymentID": "c9354aeb-ac06-4bf3-ab41-d4fab7e2eefe",
+      "Date": "\/Date(1611878400000+0000)\/",
+      "BankAmount": 250000.00,
+      "Amount": 250000.00,
+      "CurrencyRate": 1.000000,
+      "PaymentType": "ACCRECPAYMENT",
+      "Status": "AUTHORISED",
+      "UpdatedDateUTC": "\/Date(1609220420570+0000)\/",
+      "HasAccount": true,
+      "IsReconciled": false,
+      "Account": {
+        "AccountID": "76b1cbac-7b5e-45db-b69c-8ba8fe77f5fa"
+      },
+      "Invoice": {
+        "Type": "ACCREC",
+        "InvoiceID": "9ffbc384-554a-40ce-9ccb-0be13cebda8c",
+        "InvoiceNumber": "INV-0011",
+        "Payments": [],
+        "CreditNotes": [],
+        "Prepayments": [],
+        "Overpayments": [],
+        "IsDiscounted": false,
+        "HasErrors": false,
+        "Contact": {
+          "ContactID": "c0559e36-3f10-4b77-beb5-b6da6cf37d5c",
+          "Name": "waleed",
+          "Addresses": [],
+          "Phones": [],
+          "ContactGroups": [],
+          "ContactPersons": [],
+          "HasValidationErrors": false
+        },
+        "LineItems": [],
+        "CurrencyCode": "PKR"
+      },
+      "HasValidationErrors": false
+    },
+    {
+      "PaymentID": "064098f9-1661-4ffd-8b1f-bdba3bc49faa",
+      "Date": "\/Date(1601337600000+0000)\/",
+      "BankAmount": 17599.00,
+      "Amount": 17599.00,
+      "CurrencyRate": 1.000000,
+      "PaymentType": "ACCRECPAYMENT",
+      "Status": "AUTHORISED",
+      "UpdatedDateUTC": "\/Date(1609220542673+0000)\/",
+      "HasAccount": true,
+      "IsReconciled": false,
+      "Account": {
+        "AccountID": "76b1cbac-7b5e-45db-b69c-8ba8fe77f5fa"
+      },
+      "Invoice": {
+        "Type": "ACCREC",
+        "InvoiceID": "981d1343-48d5-4988-9cac-cf16cea83b7e",
+        "InvoiceNumber": "INV-0012",
+        "Payments": [],
+        "CreditNotes": [],
+        "Prepayments": [],
+        "Overpayments": [],
+        "IsDiscounted": false,
+        "HasErrors": false,
+        "Contact": {
+          "ContactID": "e9a17abc-f034-42dd-8e16-3f9632377c21",
+          "Name": "Wafi",
+          "Addresses": [],
+          "Phones": [],
+          "ContactGroups": [],
+          "ContactPersons": [],
+          "HasValidationErrors": false
+        },
+        "LineItems": [],
+        "CurrencyCode": "PKR"
+      },
+      "HasValidationErrors": false
+    }
+  ]
+}
