@@ -8,10 +8,10 @@ import re
 import dash
 import dash_bootstrap_components as dbc
 from APIS import invoices
-from APIS import items
-from APIS import payments
-from APIS import reports
-from APIS import taxRate
+# from APIS import items
+# from APIS import payments
+# from APIS import reports
+# from APIS import taxRate
 import traceback
 # Set up the app
 FA = "https://use.fontawesome.com/releases/v5.12.1/css/all.css"
