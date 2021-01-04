@@ -30,6 +30,7 @@ def XeroTenants(access_token):
     return json_dict['tenantId']
 
 def XeroRefreshToken(refresh_token):
+    print(refresh_token)
     # print('INSIDE REFRESH TOKEN')
     token_refresh_url = 'https://identity.xero.com/connect/token'
     response = requests.post(token_refresh_url,
