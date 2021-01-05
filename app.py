@@ -9,7 +9,7 @@ import dash
 import dash_bootstrap_components as dbc
 from APIS import invoices
 # from APIS import items
-# from APIS import payments
+from APIS import payments
 # from APIS import reports
 # from APIS import taxRate
 import traceback
